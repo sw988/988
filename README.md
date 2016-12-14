@@ -1,1 +1,1 @@
-[example](http://yinping4256.github.io){:target="_blank"
+<a href="http://www.ip.cn">文本</a>
