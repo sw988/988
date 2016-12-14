@@ -1,1 +1,1 @@
-[example](http://ip.cn)
+[example](http://ip.cn){:target="_blank"}
