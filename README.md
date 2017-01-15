@@ -1,2 +1,2 @@
 
-<a href="http://jirengu.com" onclick="window.open(this.href, 'newwindow'); return false;" onkeypress="window.open(this.href, 'newwindow'); return false;">This link will open in new window/tab</a>
+https://ooo.0o0.ooo/2017/01/15/587affdf9588e.jpg
