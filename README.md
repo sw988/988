@@ -1,30 +1,12 @@
 
-* Candy.
-* Gum.
-* Booze.
-+ Candy.
-+ Gum.
-+ Booze.
-- Candy.
-- Gum.
-- Booze.
 
 
 
-<ul>
-<li>Candy.</li>
-<li>Gum.</li>
-<li>Booze.</li>
-</ul>
+This is an [example link](http://example.com/).
 
 
-
-
-
-
-
-
-
+<p>This is an <a href="http://example.com/">
+example link</a>.</p>
 
 
 
