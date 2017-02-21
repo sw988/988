@@ -1,20 +1,5 @@
-
-
-
-
-This is an [example link](http://example.com/).
-
-
-<p>This is an <a href="http://example.com/">
-example link</a>.</p>
-
-
-
-
-
-This is an [example link](http://example.com/ "With a Title").
-
-
+I get 10 times more traffic from [Google][1] than from
+[Yahoo][2] or [MSN][3].
 
 
 
