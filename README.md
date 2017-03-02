@@ -1,3 +1,3 @@
 <a href="https://my.pcloud.com/publink/show?code=kZ5oRqZPQMHwgp6fzJwBVtSVLLImBSXBOBy#tpl=publicfoldergrid" target="_blank"><img src="https://media.giphy.com/media/4pikC5WX05Zra/giphy.gif" width="320" height="80" border="0"></a><br>
 
-<script src="http://www.cctv55.cn/plugin.php?id=lev_caip:l&fh=5a593d45&m=__d.12"></script>
+
