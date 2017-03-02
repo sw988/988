@@ -1,6 +1,1 @@
- [Google][1]   
-[Yahoo][2]             [MSN][3]
-
-[1]: http://google.com/ "Google"
-[2]: http://search.yahoo.com/ "Yahoo Search"
-[3]: http://search.msn.com/ "MSN Search"
+<a href="https://google.com" target="_blank"><img src="https://ooo.0o0.ooo/2017/03/02/58b81592ef347.png" width="1278" height="705" border="0"></a>
