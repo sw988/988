@@ -22,14 +22,9 @@
 
 
 
+<br>
 
 
-
-
-<video src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" width="320" height="240" controls="controls">
+<video src="<iframe width="560" height="315" src="https://www.youtube.com/embed/yTSKFPU44CQ" frameborder="0" allowfullscreen></iframe>" width="320" height="240" controls="controls">
 Your browser does not support the video tag.
 </video>
-
-
-
-
