@@ -26,7 +26,9 @@
 
 
 
-
+<video src="http://lxqncdn.miaopai.com/stream/BvmaXK2X49guVi4ehlOjjQ__.mp4" width="320" height="240" controls="controls">
+Your browser does not support the video tag.
+</video>
 
 
 
