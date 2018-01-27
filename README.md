@@ -1,4 +1,4 @@
-<a href="https://my.pcloud.com/publink/show?code=kZ5oRqZPQMHwgp6fzJwBVtSVLLImBSXBOBy#tpl=publicfoldergrid" target="_blank"><<img src="https://moetu.fastmirror.org/images/2018/01/27/wt_qrcode_bg3c8222dd25336d60.png" alt="wt_qrcode_bg3c8222dd25336d60.png" border="0" />" width="320" height="80" border="0"></a><br>
+<a href="https://my.pcloud.com/publink/show?code=kZ5oRqZPQMHwgp6fzJwBVtSVLLImBSXBOBy#tpl=publicfoldergrid" target="_blank"><<img src="https://moetu.fastmirror.org/images/2018/01/27/wt_qrcode_bg3c8222dd25336d60.png" alt="wt_qrcode_bg3c8222dd25336d60.png" border="0" />" width="160" height="40" border="0"></a><br>
 
  +<a href="http://www.youtube.com/watch?feature=player_embedded&v=R0uufIdWCD4
 +" target="_blank"><img src="http://img.youtube.com/vi/R0uufIdWCD4/0.jpg" 
